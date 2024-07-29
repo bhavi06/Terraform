@@ -1,4 +1,4 @@
 *.tfstate
-*.tfstatebackup
+*.tfstate.ebackup
 *.terraform.lock.hcl
 *.terraform
